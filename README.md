@@ -12,7 +12,7 @@ Enthusiast of the best design & web development technologies.
 </div>
 
 <p align="justify">
-Graduating in Computer Science at São João del-Rei's Federal University. Passionate about creating unique and immersive visual experiences for users.
+Graduating in Computer Science. Passionate about creating unique and immersive visual experiences for users.
 </p>
 
 <p align="justify">
